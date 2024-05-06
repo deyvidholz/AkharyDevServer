@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.0.51
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1714946684166
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714948752042
+  login: 1714947621358
+money: '0'
+last-account-name: Medvedev_
+lastlocation:
+  world: 8a970676-958b-4cc8-9060-36a311ea91e1
+  world-name: world
+  x: -3372.5
+  y: 50.0
+  z: 273.5
+  yaw: -106.49673461914062
+  pitch: 18.7496395111084
+logoutlocation:
+  world: 8a970676-958b-4cc8-9060-36a311ea91e1
+  world-name: world
+  x: -3395.860266880199
+  y: 84.6576012841148
+  z: 328.7442525155712
+  yaw: 160.50103759765625
+  pitch: 60.29972457885742
