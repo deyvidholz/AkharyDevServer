@@ -1,0 +1,138 @@
+language: en_US
+
+# add fish weight
+# add fighting with player
+fish:
+  maxWeight: 300
+
+exp:
+  mining:
+    - stone: 1
+    - deepslate: 2
+    - coal_ore: 5
+    - deepslate_coal_ore: 10
+    - copper_ore: 3
+    - deepslate_copper_ore: 8
+    - iron_ore: 10
+    - deepslate_iron_ore: 15
+    - gold_ore: 18
+    - deepslate_gold_ore: 23
+    - diamond_ore: 45
+    - deepslate_diamond_ore: 50
+    - emerald_ore: 65
+    - deepslate_emerald_ore: 70
+    - lapis_ore: 30
+    - deepslate_lapis_ore: 35
+    - redstone_ore: 15
+    - deepslate_redstone_ore: 20
+    - nether_quartz_ore: 10
+    - nether_gold_ore: 15
+  excavation:
+    - dirt: 1
+    - gravel: 2
+    - sand: 3
+  wood_cutting:
+    - spruce_log: 3
+    - birch_log: 5
+    - jungle_log: 2
+    - acacia_log: 4
+    - dark_oak_log: 3
+    - mangrove_log: 5
+    - cherry_log: 7
+    - crimson_stem: 14
+    - warped_stem: 14
+  fighting:
+    sword:
+      - wooden_sword: 2
+      - stone_sword: 3
+      - golden_sword: 4
+      - diamond_sword: 5
+      - netherite_sword: 6
+    axe:
+      - wooden_axe: 2
+      - stone_axe: 3
+      - golden_axe: 4
+      - diamond_axe: 5
+      - netherite_axe: 6
+  hunt:
+    - allay: 15
+    - axolotl: 15
+    - bat: 10
+    - bee: 5
+    - blaze: 15
+    - camel: 11
+    - cat: 10
+    - cave_spider: 13
+    - chicken: 3
+    - cod: 10
+    - cow: 5
+    - creeper: 20
+    - dolphin: 13
+    - donkey: 10
+    - drowned: 12
+    - elder_guardian: 40
+    - enderman: 15
+    - endermite: 10
+    - evoker: 15
+    - fox: 15
+    - frog: 8
+    - ghast: 25
+    - glow_squid: 12
+    - goat: 10
+    - guardian: 18
+    - hoglin: 30
+    - horse: 15
+    - husk: 18
+    - iron_golem: 30
+    - llama: 13
+    - magma_cube: 14
+    - mushroom_cow: 20
+    - mule: 15
+    - ocelot: 14
+    - panda: 20
+    - parrot: 15
+    - phantom: 15
+    - pig: 5
+    - piglin: 17
+    - piglin_brute: 25
+    - pillager: 20
+    - polar_bear: 20
+    - pufferfish: 20
+    - rabbit: 8
+    - ravager: 35
+    - salmon: 10
+    - sheep: 5
+    - shulker: 15
+    - silverfish: 13
+    - skeleton: 14
+    - skeleton_horse: 16
+    - slime: 10
+    - sniffer: 25
+    - snowman: 10
+    - spider: 9
+    - squid: 5
+    - stray: 18
+    - strider: 19
+    - tadpole: 10
+    - trader_llama: 15
+    - tropical_fish: 15
+    - turtle: 10
+    - vex: 14
+    - villager: 13
+    - vindicator: 18
+    - wandering_trader: 20
+    - warden: 150
+    - witch: 17
+    - wither: 75
+    - wither_skeleton: 17
+    - wolf: 10
+    - zoglin: 23
+    - zombie: 10
+    - zombie_horse: 12
+    - zombie_villager: 11
+    - zombified_piglin: 20
+  fishing:
+    - cod: 10
+    - salmon: 15
+    - tropical_fish: 30
+    - pufferfish: 45

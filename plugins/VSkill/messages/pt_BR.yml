@@ -1,0 +1,10 @@
+levelUp: '&eVocê agora é nível &f{level} &eem &6{skill}&e.'
+showLevels: |
+  &eNíveis de &f{player}:
+  - &6Mineração: &f{mining_level} &7[{mining_current_xp} / {mining_required_xp} EXP]
+  - &6Escavação: &f{excavation_level} &7[{excavation_current_xp} / {excavation_required_xp} EXP]
+  - &6Lenhador: &f{wood_cutting_level} &7[{wood_cutting_current_xp} / {wood_cutting_required_xp} EXP]
+  - &6Caça: &f{hunt_level} &7[{hunt_current_xp} / {hunt_required_xp} EXP]
+  - &6Pescaria: &f{fishing_level} &7[{fishing_current_xp} / {fishing_required_xp} EXP]
+  - &6Luta com Espada: &f{sword_fighting_level} &7[{sword_fighting_current_xp} / {sword_fighting_required_xp} EXP]
+  - &6Luta com Machado: &f{axe_fighting_level} &7[{axe_fighting_current_xp} / {axe_fighting_required_xp} EXP]

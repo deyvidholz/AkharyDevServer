@@ -1,0 +1,11 @@
+levelUp: '&eYou are now level &f{level} &eon &6{skill}&e!'
+showLevels: |
+  &f{player}'s &elevels:
+  - &6Mining: &f{mining_level} &7[{mining_current_xp} / {mining_required_xp} EXP]
+  - &6Excavation: &f{excavation_level} &7[{excavation_current_xp} / {excavation_required_xp} EXP]
+  - &6Wood Cutting: &f{wood_cutting_level} &7[{wood_cutting_current_xp} / {wood_cutting_required_xp} EXP]
+  - &6Hunt: &f{hunt_level} &7[{hunt_current_xp} / {hunt_required_xp} EXP]
+  - &6Fishing: &f{fishing_level} &7[{fishing_current_xp} / {fishing_required_xp} EXP]
+  - &6Sword Fighting: &f{sword_fighting_level} &7[{sword_fighting_current_xp} / {sword_fighting_required_xp} EXP]
+  - &6Axe Fighting: &f{axe_fighting_level} &7[{axe_fighting_current_xp} / {axe_fighting_required_xp} EXP]
+example: Welcome to the server, %player%!

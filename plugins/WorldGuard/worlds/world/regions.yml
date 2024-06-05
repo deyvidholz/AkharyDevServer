@@ -12,7 +12,7 @@
 regions:
     __global__:
         members: {}
-        flags: {mob-spawning: deny}
+        flags: {mob-spawning: allow}
         owners: {}
         type: global
         priority: 0
